@@ -46,7 +46,7 @@ For both data sets, we have a total of 68 variables. The "final_dataset" has 102
 [30] "frequency_body_gyroscope_mean_y"                      
 [31] "frequency_body_gyroscope_mean_z"                       
 [32] "frequency_body_accelerometer_magnitude_mean"          
-[33] "frequency_body_body_accelerometer_jerk_magnitude_mean" 
+[33] "frequency_body_body_accelerometer_jerk_magnitude_mean"
 [34] "frequency_body_body_gyroscope_magnitude_mean"         
 [35] "frequency_body_body_gyroscope_jerk_magnitude_mean"     
 [36] "time_body_accelerometer_std_x"                        
