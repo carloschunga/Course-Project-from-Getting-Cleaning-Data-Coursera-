@@ -1,5 +1,5 @@
 # Course-Project-from-Getting-Cleaning-Data-Coursera-
-This is the final project for the "Getting and Cleaning Data" Johns Hopkins University course on Coursera. It includes the following files:
+This is the final project for the "Getting and Cleaning Data" Johns Hopkins University course on Coursera. This repo includes the following files:
 
 1) **"run_analysis.R"**: the R script.
 2) **"tidy_dataset.txt"**: the tidy data set as an output of "run_analysis.R" (if you run this code you will get this tidy data set as well).
